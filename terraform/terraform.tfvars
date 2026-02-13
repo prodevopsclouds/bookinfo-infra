@@ -1,0 +1,11 @@
+gcp_project_id = "your-gcp-project-id"
+gcp_region = "your-gcp-region"
+cluster_name = "your-cluster-name"
+cluster_zone = "your-cluster-zone"
+machine_type = "your-machine-type"
+num_nodes = "your-number-of-nodes"
+kubernetes_version = "your-kubernetes-version"
+istio_version = "your-istio-version"
+enable_istio = true
+enable_bookinfo = true
+bookinfo_namespace = "your-bookinfo-namespace"
