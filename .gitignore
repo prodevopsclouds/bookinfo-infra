@@ -1,0 +1,19 @@
+# .gitignore for Terraform, IDE, and OS
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# Operating System
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
